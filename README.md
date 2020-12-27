@@ -4,7 +4,7 @@ This app is a homework assignment that was created for the OSU full-stack coding
 
 ## Description
 
-This is our first real backend development app. This application uses express.js backend to save and retrieve note data from a JSON file. The assignment is to create an application that can be used to write, save, and delete notes. 
+This application uses express.js backend to save and retrieve note data from a JSON file. The assignment is to create an application that can be used to write, save, and delete notes. 
 
 ## Task List
 - [x] Application should allow users to create and save notes.
