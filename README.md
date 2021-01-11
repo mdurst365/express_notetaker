@@ -37,10 +37,3 @@ This application uses express.js backend to save and retrieve note data from a J
 
 This app has been deployed on Heroku and is viewable here: https://express-notetaker1.herokuapp.com/notes
 
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URL of the deployed application. This should be the link to the url provided by Heroku. Be sure not to submit a link to the Heroku dashboard.
-
-* The URL of the GitHub repository
